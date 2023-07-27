@@ -6,7 +6,7 @@
 <table class="table table-hover align-middle bg-white border text-secondary">
     <thead class="table-success small text-secondary">
         <tr>
-            <th></th>
+            <th>ID</th>
             <th>Name</th>
             <th>Email</th>
             <th>Created at</th>
